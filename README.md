@@ -1,9 +1,10 @@
-![Logo of the project](https://github.com/ThiagoMendes92/.png)
+![Logo of the project](https://github.com/ThiagoMendes92/projeto-glass-html5/blob/main/_imagens/cursoemvideo-logo.png)
  
 ## Projeto Google Glasso
  
 Projeto de site Google Glass criado durante o curso.
 CURSO HTML5 E CSS - PROJETO CURSO EM VIDEO PROF GUSTAVO GUANABARAI
+Link do Site
  
  
 ## Tecnologia 
@@ -23,7 +24,7 @@ Aqui estão as tecnologias usadas neste projeto.
 
 ## Imagens
  
-![Home](https://github.com/ThiagoMendes92/primeiroProjeto/blob/main/readme_images/projeto.png)
+![Home](https://github.com/ThiagoMendes92/projeto-glass-html5/blob/main/_imagens/readme2.png)
  
  
 
