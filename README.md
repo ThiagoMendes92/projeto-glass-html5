@@ -2,9 +2,7 @@
  
 ## Projeto Google Glass
  
-Projeto de site Google Glass criado durante o curso.
-CURSO HTML5 E CSS - PROJETO CURSO EM VIDEO PROF GUSTAVO GUANABARAI
-Link do Site
+Projeto de site Google Glass criado durante o curso. ( CURSO HTML5 E CSS - PROJETO CURSO EM VIDEO PROF GUSTAVO GUANABARA ) - Link do Site
  
  
 ## Tecnologia 
