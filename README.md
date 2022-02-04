@@ -2,7 +2,7 @@
  
 ## Projeto Google Glass
  
-Projeto de site Google Glass criado durante o curso. ( CURSO HTML5 E CSS - PROJETO CURSO EM VIDEO PROF GUSTAVO GUANABARA ) - Link do Site
+Projeto de site Google Glass criado durante o curso. ( CURSO HTML5 E CSS - PROJETO CURSO EM VIDEO PROF GUSTAVO GUANABARA ) - <a href="https://projeto-glass-html5-thiagomendes92.netlify.app/index.html" target="_blank">Link do Site</a>
  
  
 ## Tecnologia 
@@ -29,6 +29,7 @@ Aqui estão as tecnologias usadas neste projeto.
 ## Links
  
   - Repositorio: https://github.com/ThiagoMendes92/projeto-glass-html5
+  - Hospedagem: https://projeto-glass-html5-thiagomendes92.netlify.app/index.html
  
  
 
